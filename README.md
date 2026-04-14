@@ -1,8 +1,10 @@
 Project Title: AI-Based URL Phishing Detector
 
+
 Description:
 This project detects phishing URLs using Machine Learning (Logistic Regression).
 It analyzes URL features such as length, special characters, HTTPS usage, and domain structure.
+
 
 Project Structure:
 phishing-mini-project/
@@ -11,6 +13,7 @@ phishing-mini-project/
 ├── train_model.py
 ├── predict.py
 └── app.py
+
 
 Technologies:
 - Python
